@@ -1,0 +1,7 @@
+E:\Study\Dot NET\Wokrspace\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Study\Dot NET\Wokrspace\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Study\Dot NET\Wokrspace\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Study\Dot NET\Wokrspace\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+E:\Study\Dot NET\Wokrspace\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\Study\Dot NET\Wokrspace\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\Study\Dot NET\Wokrspace\Lab1\Lab1\obj\Debug\Lab1.pdb

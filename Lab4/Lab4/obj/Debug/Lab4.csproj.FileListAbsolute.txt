@@ -1,0 +1,6 @@
+E:\Study\Dot NET\Wokrspace\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Study\Dot NET\Wokrspace\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Study\Dot NET\Wokrspace\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Study\Dot NET\Wokrspace\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Study\Dot NET\Wokrspace\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Study\Dot NET\Wokrspace\Lab4\Lab4\obj\Debug\Lab4.pdb

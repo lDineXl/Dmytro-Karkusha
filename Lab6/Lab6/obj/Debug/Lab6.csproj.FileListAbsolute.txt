@@ -1,0 +1,7 @@
+E:\Study\Dot NET\Wokrspace\Lab6\Lab6\bin\Debug\Lab6.exe.config
+E:\Study\Dot NET\Wokrspace\Lab6\Lab6\bin\Debug\Lab6.exe
+E:\Study\Dot NET\Wokrspace\Lab6\Lab6\bin\Debug\Lab6.pdb
+E:\Study\Dot NET\Wokrspace\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+E:\Study\Dot NET\Wokrspace\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+E:\Study\Dot NET\Wokrspace\Lab6\Lab6\obj\Debug\Lab6.exe
+E:\Study\Dot NET\Wokrspace\Lab6\Lab6\obj\Debug\Lab6.pdb
